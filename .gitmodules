@@ -1,0 +1,4 @@
+[submodule "addons-misc/project-addons"]
+	path = addons-misc/project-addons
+	url = git@github.com:juanpgarza/project-addons.git
+	branch = 15.0
